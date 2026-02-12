@@ -65,6 +65,7 @@ header{
             gap: 36px;
             right: -100%;
             transition: ease .5s all;
+            z-index: 10;
 
             @media only screen and (min-width: 600px){
                 width: 50%;
